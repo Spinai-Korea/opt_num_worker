@@ -1,0 +1,16 @@
+$ python tune.py
+res=224
+batch_size=64
+Finish with:33.121737480163574 second, num_workers=2
+Finish with:36.86378741264343 second, num_workers=4
+Finish with:46.01602268218994 second, num_workers=6
+Finish with:34.2734751701355 second, num_workers=8
+Finish with:34.59714984893799 second, num_workers=10
+Finish with:34.33775854110718 second, num_workers=12
+Finish with:35.31204915046692 second, num_workers=14
+Finish with:35.473514556884766 second, num_workers=16
+Finish with:35.7912380695343 second, num_workers=18
+Finish with:36.256612062454224 second, num_workers=20
+Finish with:36.65270185470581 second, num_workers=22
+Finish with:38.398335695266724 second, num_workers=24
+Finish with:39.61587476730347 second, num_workers=26
